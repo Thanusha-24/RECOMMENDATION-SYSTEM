@@ -127,3 +127,4 @@ README.md: This documentation file
 
 # OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/f1a7a305-ae4b-420b-9f73-818f0b2df53a)

@@ -118,8 +118,12 @@ Surprise Library
 Matplotlib & Seaborn (for evaluation visualizations)
 
 📁 Files Included
-recommendation.ipynb: Notebook containing the full implementation and evaluation
 
-recommendation_results.png: Image showing sample recommendations
+Recommendation system.ipynb:Notebook containing the full implementation and evaluation
+
+recommendation.jpg: Image showing sample recommendations
 
 README.md: This documentation file
+
+# OUTPUT:
+

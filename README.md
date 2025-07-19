@@ -1,6 +1,16 @@
 # RECOMMENDATION-SYSTEM
 
+COMPANY: CODTECH IT SOLUTIONS
 
+NANE: KUNDA THANUSHA
+
+INTERN ID: CT06DF1581
+
+DOMAIN: MACHINE LEARNING
+
+DURATION: 6 WEEKS
+
+MENTOR: NEELA SANTOSH
 
 📝 Task Overview
 This repository contains my implementation for Task 4 of the internship, which focuses on building a Recommendation System using either Collaborative Filtering or Matrix Factorization techniques. The aim of the project is to predict user preferences and generate personalized item recommendations based on their past interactions or similar user behaviors.
@@ -108,10 +118,8 @@ Surprise Library
 Matplotlib & Seaborn (for evaluation visualizations)
 
 📁 Files Included
-recommendation_system_task4.ipynb: Notebook containing the full implementation and evaluation
+recommendation.ipynb: Notebook containing the full implementation and evaluation
 
 recommendation_results.png: Image showing sample recommendations
-
-model_evaluation_metrics.png: Evaluation metrics and visualizations
 
 README.md: This documentation file

@@ -12,7 +12,8 @@ DURATION: 6 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-📝 Task Overview
+📝 Task Overview:
+
 This repository contains my implementation for Task 4 of the internship, which focuses on building a Recommendation System using either Collaborative Filtering or Matrix Factorization techniques. The aim of the project is to predict user preferences and generate personalized item recommendations based on their past interactions or similar user behaviors.
 
 Recommendation Systems are widely used in modern applications such as e-commerce, streaming platforms, and social media to improve user engagement and satisfaction by showing relevant content.
@@ -117,7 +118,7 @@ Surprise Library
 
 Matplotlib & Seaborn (for evaluation visualizations)
 
-📁 Files Included
+📁 Files Included:
 
 Recommendation system.ipynb:Notebook containing the full implementation and evaluation
 
